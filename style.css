@@ -289,7 +289,7 @@ nav {
   background-size: cover;
   background-position: top center;
   position: relative;
-  background-color: #111;
+  background-color: transparent;
   padding: 40px 0 300px;
 }
 
